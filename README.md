@@ -5,7 +5,7 @@ DEPLOYMENT
 A live, working website can be found at http://pseudocode-parser.com/ or http://pseudocodeparser.herokuapp.com/ if that first link didn't work.
 Please give about thirty seconds for the website to first load up. After thirty minutes, Heroku hibernates "free" dynos, and the extra time is to wake the dyno from hibernation. 
 
-The full source code can be found at https://github.com/theodoretliu/Pseudocode-Parser.
+The full up to date source code can be found at https://github.com/theodoretliu/Pseudocode-Parser.
 
 If you would like to run the app locally, cd into the correct folder and execute the following commands
 
